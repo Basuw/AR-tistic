@@ -29,6 +29,13 @@ AR-tistic est une application mobile basée sur de la réalité augmentée. L'id
   </p>
 
 
+<p>
+Realised by :
+<br>
+Pintrand Aurélien
+De la Fuente Axel
+Bastien Jacquelin
+</p>
 
 Getting started
 ===
