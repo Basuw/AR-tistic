@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AR_tistic"
+include ':app'
+include ':stub'
+include ':classLib'
+include ':database'
+include ':testConsol'
+include ':classLibDTO'
+include ':dataContract'
+include ':api'
+include ':clientAPI'
